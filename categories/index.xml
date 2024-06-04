@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on xueHuang&#39;s Blog</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://BlueWhalexh.github.io/categories/</link>
     <description>Recent content in Categories on xueHuang&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Tue, 04 Jun 2024 15:02:00 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://BlueWhalexh.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Draft</title>
-      <link>http://localhost:1313/categories/draft/</link>
+      <link>https://BlueWhalexh.github.io/categories/draft/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/draft/</guid>
+      <guid>https://BlueWhalexh.github.io/categories/draft/</guid>
       <description></description>
     </item>
   </channel>
