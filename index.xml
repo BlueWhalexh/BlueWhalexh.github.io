@@ -3,9 +3,17 @@
     <title>xueHuang Blog</title>
     <link>http://localhost:1313/</link>
     <description>xueHuang Blog</description>
-    <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 04 Jun 2024 10:37:55 &#43;0800</lastBuildDate>
+    <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 04 Jun 2024 15:02:00 &#43;0800</lastBuildDate>
       <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+  <title>Listening</title>
+  <link>http://localhost:1313/posts/94b3067/</link>
+  <pubDate>Tue, 04 Jun 2024 15:02:00 &#43;0800</pubDate>
+  <author>Author</author>
+  <guid>http://localhost:1313/posts/94b3067/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
   <title>Writing</title>
   <link>http://localhost:1313/posts/writing/</link>
   <pubDate>Tue, 04 Jun 2024 10:37:55 &#43;0800</pubDate>
@@ -19,14 +27,6 @@
   <pubDate>Fri, 31 May 2024 21:56:04 &#43;0800</pubDate>
   <author>Author</author>
   <guid>http://localhost:1313/posts/583bc6c/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
-  <title>Test</title>
-  <link>http://localhost:1313/posts/10efd1f/</link>
-  <pubDate>Fri, 31 May 2024 21:52:13 &#43;0800</pubDate>
-  <author>Author</author>
-  <guid>http://localhost:1313/posts/10efd1f/</guid>
   <description><![CDATA[]]></description>
 </item>
 </channel>
