@@ -1,0 +1,33 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>xueHuang Blog</title>
+    <link>http://localhost:1313/</link>
+    <description>xueHuang Blog</description>
+    <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 04 Jun 2024 10:37:55 &#43;0800</lastBuildDate>
+      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+  <title>Writing</title>
+  <link>http://localhost:1313/posts/writing/</link>
+  <pubDate>Tue, 04 Jun 2024 10:37:55 &#43;0800</pubDate>
+  <author>Author</author>
+  <guid>http://localhost:1313/posts/writing/</guid>
+  <description><![CDATA[Some people believe that it is best to accept a bad situation, such as an unsatisfactory job or shortage of money. Others argue that it is better to try and improve such situations. Discuss both these views and give your own opinion. Give reasons for your answer and include any relevant examples from your own knowledge or experience. 14-1-1 Recently, many people have been discussing whether it is necessary to accept an unfavorable situation, such as a poor work environment or insufficient compensation.]]></description>
+</item>
+<item>
+  <title>My First Post</title>
+  <link>http://localhost:1313/posts/583bc6c/</link>
+  <pubDate>Fri, 31 May 2024 21:56:04 &#43;0800</pubDate>
+  <author>Author</author>
+  <guid>http://localhost:1313/posts/583bc6c/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>Test</title>
+  <link>http://localhost:1313/posts/10efd1f/</link>
+  <pubDate>Fri, 31 May 2024 21:52:13 &#43;0800</pubDate>
+  <author>Author</author>
+  <guid>http://localhost:1313/posts/10efd1f/</guid>
+  <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>
